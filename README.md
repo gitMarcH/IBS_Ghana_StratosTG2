@@ -10,3 +10,5 @@ Datasets for this workshop can be downloaded from:
 Files available at this repository:
 
 * IBS_SUSAN_Ghana_STRATOS_generateData.R - this script simulates a very simple dataset for the first exercise of the workshop.
+
+Example solution approaches will be uploaded after the workshop.
