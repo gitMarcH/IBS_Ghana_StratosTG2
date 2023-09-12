@@ -9,7 +9,7 @@ Datasets for this workshop can be downloaded from:
 
 Files available at this repository:
 
-* IBS_SUSAN_Ghana_STRATOS_generateData.R - this script simulates a very simple dataset for the first exercise of the workshop.
+* IBS_SUSAN_Ghana_STRATOS_simulateData.R - this script simulates a very simple dataset for the first exercise of the workshop.
 
 Example solution approaches uploaded after the workshop:
 * IBS_SUSAN_Ghana_STRATOS_varSel_simulatedDataSimpleAnalysis.R - this script is an example how to investigate the performance of a few commonly used variable selection methods on the simulated data from the previous script.
