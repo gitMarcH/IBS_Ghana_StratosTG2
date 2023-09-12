@@ -11,4 +11,8 @@ Files available at this repository:
 
 * IBS_SUSAN_Ghana_STRATOS_generateData.R - this script simulates a very simple dataset for the first exercise of the workshop.
 
-Example solution approaches will be uploaded after the workshop.
+Example solution approaches uploaded after the workshop:
+* IBS_SUSAN_Ghana_STRATOS_varSel_simulatedDataSimpleAnalysis.R - this script is an example how to investigate the performance of a few commonly used variable selection methods on the simulated data from the previous script.
+* IBS_SUSAN_Ghana_STRATOS_varSel_bodyfat.R - example script that looks at variable selection in the bodyfat dataset.
+* IBS_SUSAN_Ghana_STRATOS_NHANES.R - example script fitting different flexible model for BMI as a function of age.
+
